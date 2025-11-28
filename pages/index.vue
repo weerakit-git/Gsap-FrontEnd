@@ -1,4 +1,4 @@
 <template>
     <Content />
-    <MarkText />
+    <!-- <MarkText /> -->
 </template>
